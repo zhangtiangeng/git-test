@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println("hello,github");
         System.out.println("hello,world");
         System.out.println("hot");
+        System.out.println("merge-hot");
         System.out.println("merge-master");
     }
 }
