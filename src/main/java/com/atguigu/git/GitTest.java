@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hot");
         System.out.println("merge-hot");
         System.out.println("merge-master");
+        System.out.println("push");
     }
 }
